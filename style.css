@@ -15,6 +15,7 @@ main{
   font-family: arial;
   font-size: 30px;
   color: #fff;
+  text-align: center;
 }
 img{
   width: 300px;
@@ -26,12 +27,6 @@ img{
 section h1{
   padding: 20px;
   font-weight: 800;
-  position:relative;
-  left: 20px;
-}
-section p{
-  position: relative;
-  left: 5px;
 }
 
 button{
@@ -41,7 +36,6 @@ button{
   font-weight: 800;
   margin-top: 20px;
   position: relative;
-  left:59px;
   border: none;
   border-radius: 10px;
   background-color: #fff;
